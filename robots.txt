@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: http://antzuhl.cn/sitemap/sitemap-index.xml
+Sitemap: http://antzuhl.cn/running_page/sitemap/sitemap-index.xml
 Host: antzuhl.cn
